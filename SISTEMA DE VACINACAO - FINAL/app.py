@@ -12,7 +12,7 @@ from datetime import datetime
 # Configuração da página DEVE ser a primeira chamada Streamlit
 st.set_page_config(
     page_title="NASST Digital - Controle de Vacinação",
-    page_icon="💉",
+    page_icon="💉",  # ✅ Mudei de 📈 para 💉
     layout="wide",
     initial_sidebar_state="collapsed",
 )
