@@ -1,0 +1,7 @@
+Este diretório deve conter as imagens para o manual do usuário:
+- tela_login.png
+- dashboard.png
+- consulta_servidores.png
+- admin_usuarios.png
+
+As imagens devem ser capturas de tela do sistema real.
